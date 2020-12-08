@@ -9,8 +9,8 @@ Suspendisse tristique, mauris nec porta bibendum, sem elit auctor diam, in condi
 ### Befehle
 Pellentesque sit amet turpis ut massa tristique consectetur vitae id justo. Praesent pulvinar rutrum sem ac congue. Vestibulum egestas, metus quis rutrum condimentum, ex nulla euismod ligula, eget dapibus neque ligula non sapien. Suspendisse potenti. Aliquam ac quam in felis pharetra tristique sed eu dolor. Vivamus vel orci ac ipsum convallis suscipit. Sed eget vulputate ex. Sed vitae vestibulum diam. Nulla id molestie tortor.
 
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
+* Create a list by starting a line with `+`, `-`, or `*`
+* Sub-lists are made by indenting 2 spaces:
   - Marker character change forces new list start:
     * Ac tristique libero volutpat at
     + Facilisis in pretium nisl aliquet
